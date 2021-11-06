@@ -1,0 +1,30 @@
+{
+    "votes": [
+        {
+            "index": 0,
+            "timestamp": 1483225200,
+            "voterId": "107",
+	    "candidate": "David Ramson",
+            "previousHash": null,
+            "hash": "34054c41850bdf3f6f62dd60ae824dd35b98c872d420ed0dde942d0e54cd94d6"
+        },
+        {
+            "index": 1,
+            "timestamp": 1605955214,
+            "voterId": "101",
+	    "candidate": "Dvid Ramson",
+            "previousHash": "34054c41850bdf3f6f62dd60ae824dd35b98c872d420ed0dde942d0e54cd94d6",
+            "hash": "0000b01947ace0d22c8896fa76c67f1811a5a832a6d03b74cf059ad3a3e95afc"
+        },
+	
+        {
+            "index": 2,
+            "timestamp": 1605955214,
+            "voterId": "1k01",
+	    "candidate": "Dvjkid Ramson",
+            "previousHash": "0000b01947ace0d22c8896fa76c67f1811a5a832a6d03b74cf059ad3a3e95afc",
+            "hash": "0000ff54500e2cb0c101d0ea2095ed77cbaa6e189f5b1b33f36de80395425ac9"
+        }
+    ],
+    "difficulty" : 4
+}
